@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/credits.png</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/Effects/General/geneffect.fx</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/Effects/Sprites/spreffect.fx</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/Fonts/dfont.spritefont</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/freeplay.png</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/freeplayselected.png</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/OLD/Credits.png</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/OLD/CreditsSelected.png</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/OLD/Options.png</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/OLD/OptionsSelected.png</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/OLD/storymode.png</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/options.png</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/storymode.png</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/storymodeselected.png</File>
+    <File>D:/Games/DevelopedGames/C# Games/RhythmGame/RhythmGame/Content/titlebg.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KeDDV11HWaNsM5H+HxUQHr6euLmWBrGuPMoJIP8x/S1Kob4jxPBQB9OsHnahkC/bX1KutWIl8lcHSJA7YAs39A==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\DevelopedGames\\C# Games\\RhythmGame\\RhythmGame\\RhythmGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adenh\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\adenh\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
