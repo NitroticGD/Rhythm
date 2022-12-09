@@ -26,6 +26,8 @@ Notes will be detected by the arrows sometimes
 
 Added a score text at the bottom
 
+Added music
+
 ## Upcoming features
 
 Making notes being detected all the time not just occasionally
